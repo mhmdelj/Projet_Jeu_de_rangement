@@ -1,0 +1,5 @@
+Nabil 2 1 5
+khadija 1 0 5
+Mohamed 4 0 16
+ENSIAS 7 1 8
+med 2 0 4Nabil 3 1 5younes 2 0 4Hamid 1 0 5Hamid 2 0 5Hamid 3 0 5Hamid 3 0 5mohamed 3 0 4
